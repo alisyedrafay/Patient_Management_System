@@ -22,4 +22,4 @@ Building a backend-focused portfolio project
 
 Demonstrating API design skills for freelancing or internships
 
-Overall, the Patient Management System showcases a clean, minimal, and practical backend implementation using modern Python frameworks, following industry-standard API development practices.
+Overall, the Patient Management System showcases a clean, minimal, and practical backend implementation using modern Python frameworks, following industry-standard API development practices..
